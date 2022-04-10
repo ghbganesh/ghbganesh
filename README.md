@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ghbganesh
+- 👋 Hi, I’m Ganesh Bharate
 - 👀 I’m interested in Philosophy of Mind
 - 🌱 I’m currently learning DNN
 - 💞️ I’m looking to collaborate on creating hierarchical representation where we can show causal influence of psychological over physiological variables from dataset https://github.com/NeuroanatomyAndConnectivity/pipelines/tree/v2.0/src/lsd_lemon
